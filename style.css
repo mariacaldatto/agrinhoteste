@@ -24,5 +24,3 @@ button, .btn { background-color: rgb(86, 176, 48);
     transition: background-color 0.3s;
     margin-top: 15px;
 }
-button:hover, .btn:hover
-background-color: #388e3c;
