@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(201, 244, 242);
+    text-align: center;
+    margin: 30px 200px;
+}
+h1{ margin:30px ;
+    color: rgb(0, 13, 255); font-size: 40px;
+}
+p{text-align: center;
+    color: black;   font-size-adjust:25px ;
+}
+
+img{
+    border-style: dashed;
+    border: 3px solid rgb(9, 168, 91);
+    height: 500px;
+}  
+button, .btn { background-color: rgb(86, 176, 48);
+    color: aliceblue; border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 15px;
+}
+button:hover, .btn:hover
+background-color: #388e3c;
